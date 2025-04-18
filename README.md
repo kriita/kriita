@@ -1,31 +1,12 @@
 # 👋 Hi there, I'm Filip!
 
-I'm a Swedish **Software Engineer** with a background in **Computer Science** and **Electrical Engineering**, passionate about building scalable software systems, sustainable codebases, and continuously learning new technologies. I love to dive into what I don't know and figure things out as I solve the problems I create for myself.
+I'm a Swedish **Software Engineer** with a background in **Computer Science** and **Electrical Engineering** who works at [Pitch Technologies](https://pitchtechnologies.com/). I'm passionate about building scalable software systems, sustainable codebases, and continuously learning new technologies. I love to dive into what I don't know and figure things out as I solve the problems I create for myself.
 
-## What I Do
-
-Professionally, I focus on:
-
-- 🔧 **Software Development & Architecture**
-- ⚙️ **Distributed Simulation Systems** - specifically the HLA standard
-- 🌐 **Web Development & Infrastructure**
-
-Outside of work, I explore:
-
-- 🏡 **Homelabbing** — running Proxmox on custom hardware
-- ☁️ **Self-hosting** tools and services for privacy, learning, and control
-- 🍺 **Homebrewing** and **music** to wind down
-
-## Projects in Progress
-
-- 🧪 Building a compute cluster using **Kubernetes** on Raspberry Pis for job deployment and experimentation.
-- 🔐 Expanding and refining my **self-hosted infrastructure**, currently focusing on real-world reliability
-
-## Currently Learning
-
-- 🛠️ **Hybrid software hosting** for sustainable self-hosted setups
-- 🔒 Systems **security**, especially with regards to public hosting from home
-- ♻ **Maintenance** strategies for legacy code systems
+- 🔧 Professionally, I work with distributed simulation software using **Java**, **React.js**, and **HLA**
+- 🌱 At home, I explore **self-hosting**, **networking**, and **machine learning**
+- 🧪 Active project: I'm building a compute cluster using **Kubernetes** on Raspberry Pis for job deployment and experimentation.
+- 🔐 Active project: Expanding and refining my **self-hosted infrastructure**, investigating hybrid hosting solutions between on-prem and cloud
+- 🍺 **Homebrewing beer** and **cooking** to wind down
 
 ## 🔗 Where to Find Me
 
